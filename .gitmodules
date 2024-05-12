@@ -1,0 +1,3 @@
+[submodule "SystemDesignPractice/themes/hugo-book"]
+	path = SystemDesignPractice/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
